@@ -1,4 +1,4 @@
-package com.codewall.calculator;
+package com.batcheleven.one;
 
 public class IfStatement {
     public static void main(String[] args) {
